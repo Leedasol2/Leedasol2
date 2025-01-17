@@ -33,7 +33,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedasol2&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedasol2&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leedasol2&" alt="leedasol2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leedasol2" alt="leedasol2" /></p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFE5DD,100:FFFFDD&height=150&section=footer)
 
